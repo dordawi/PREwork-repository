@@ -16,4 +16,11 @@ It is an example of a basic website. It cointains:
 > sub
 > sup
 > pre
+> br
+> hr
+> div
+> 
 - link do the image file
+- item lists (oredered, unoredred and a definition list)
+
+The file is connected in its HEAD with css file and js file. CSS file contains class for heading (without dot) and oridinary class (with dot). Java script file contains one alert. In the body of the main file  there is another action java script alert "onlick"

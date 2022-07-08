@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+h2 {
+  color: rgb(64, 64, 220);
+  text-decoration: wavy;
+  text-transform: unset;
+}
+h3 {
+  color: rgb(87, 161, 193);
+  text-overflow: clip;
+}
+
+.types-of-fish {
+  color: rgb(110, 42, 165);
+  text-decoration: double;
+}
